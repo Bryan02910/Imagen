@@ -2,7 +2,7 @@
 
 imgShare is a web application to share images, comments, and more.
 
-![](docs/screenshot1.png)
+![](docs/image.png)
 
 # Environment Variables
 
