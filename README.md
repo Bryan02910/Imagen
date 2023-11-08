@@ -7,7 +7,7 @@ imgShare is a web application to share images, comments, and more.
 # Environment Variables
 
 - `MONGODB_URI`, the mongodb database uri
-- `PORT` the http server port. By default is `3000`
+- `PORT` the http server port. By default is `3200`
 
 # Installation
 
@@ -25,9 +25,7 @@ npm start
 docker-compose up
 ```
 
-# Tutorials
 
-- [Youtube (es)](https://youtu.be/TqC3e8nBycg)
 
 # Improvements for the Future
 
